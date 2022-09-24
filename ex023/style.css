@@ -13,4 +13,18 @@ h1#principal{
 
 h1{color: #39473A;}
 
-h2{color: #6E8A6F;}
+
+.basico{
+  color: #498a4b;
+  font-weight: 700;
+}
+
+.intermediario{
+    color: #808a49;
+    font-weight: 700;
+}
+
+.avancado{
+    color: #8a4b49;
+    font-weight: 700 ;
+}
